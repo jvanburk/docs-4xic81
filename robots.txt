@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-z3nnoc.quietmatches.com/sitemap.xml
